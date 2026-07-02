@@ -1,0 +1,3 @@
+module.exports=[33290,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"es",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"Studio Print | Personalización en San Martín, Mendoza",description:"DTF textil, sublimación, vinilo textil, stickers UV, grabado y corte láser en San Martín, Mendoza."}])},70864,a=>{a.n(a.i(33290))}];
+
+//# sourceMappingURL=app_layout_tsx_2144vk_._.js.map

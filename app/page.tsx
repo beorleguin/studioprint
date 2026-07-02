@@ -95,7 +95,6 @@ export default function Home() {
 
       <section id="inicio" className="hero section-shell">
         <div className="hero-copy">
-          <p className="eyebrow">San Martín, Mendoza</p>
           <h1>
             Impresión y personalización que hacen{" "}
             <span>destacar tu marca</span>
